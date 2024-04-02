@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Batool-Kazmi
-- 👀 I’m interested in full stack development, and CTF.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently an undergraduate learning computer science.
 - 😄 Pronouns: She/Her
 
